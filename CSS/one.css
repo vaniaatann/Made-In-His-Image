@@ -1,0 +1,52 @@
+
+
+body{
+		background-color: #F6F7EB;
+		font-family: Poppins;
+	}
+
+h1{
+	font-size: 30px; 
+	color: #393E41;
+	font-family: Poppins Semibold;
+}
+
+h2{
+	font-size: 20px; 
+	color: #E94F37;
+	font-family: Poppins;
+}
+
+h3{
+	font-size: 15px;
+	color: #FAA916
+}
+
+p{
+	color:#393E41;
+	font-family: Poppins Light;
+}
+
+h1 span{
+	color:#1B998B;
+	font-style: bold; 
+}
+
+span{
+	color:#00796B;
+}
+
+
+.big {
+	font-size: 40px;
+}
+
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: navy;
+}
+
